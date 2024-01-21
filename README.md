@@ -1,4 +1,4 @@
-# Fisica - A Simple Geant4 Application 
+# Fisica - A Simple Geant4 Simulation  
 detector simulation framework of a Cherenkov detector
 
 ## References 
