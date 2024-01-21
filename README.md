@@ -1,4 +1,4 @@
-# Basic-Geant4-application-
+# Simple Geant4 Application 
 detector simulation framework of a Cherenkov detector
 
 ## References 
